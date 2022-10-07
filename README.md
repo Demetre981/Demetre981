@@ -1,8 +1,9 @@
-![Header](https://github.com/Demetre981/Demetre981/blob/main/assets/api.gif)
 
 # Hi there 👋
 
 # I'm Demetre, a Beginner Backend Developer.
+
+![Header](https://github.com/Demetre981/Demetre981/blob/main/assets/api.gif)
 
 ### About me
   - I play Basketball 🏀
@@ -36,5 +37,6 @@ My stats
   ![GitHub](https://img.shields.io/badge/-GitHub-0D0D0D?style=flat-square&logo=github)
 
 
-
-Follow Me
+## 🎉 Contact with me:
+[![Telegram](https://img.shields.io/badge/-Telegram-0D0D0D?style=flat-square&logo=Telegram)](https://t.me/demetre98)
+[![Gmail](https://img.shields.io/badge/-Gmail-0D0D0D?style=flat-square&logo=Gmail)](mailto:catus2900@gmail.com)
