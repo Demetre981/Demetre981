@@ -1,7 +1,7 @@
 
 # Hi there 👋
 
-# I'm Demetre, a Beginner Backend Developer.
+# I'm Demetre, a Beginner Python Developer.
 
 ![Header](https://github.com/Demetre981/Demetre981/blob/main/assets/api.gif)
 
@@ -10,8 +10,11 @@
   - I am live in Lviv 🌍
   - I love coffe ☕
 
-
-My stats
+### 📈 My Stats:
+<p> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Demetre981&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demetre981&layout=compact&langs_count=8show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/> 
+</p>
 
 ## 🚀 My Stack:
 
