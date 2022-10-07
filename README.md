@@ -1,6 +1,6 @@
 ![Header](https://github.com/Demetre981/Demetre981/blob/main/assets/api.gif)
 
-About me
+## I'm a beginner Software Developer From Ukraine 
 
 Languages and Tools
 
