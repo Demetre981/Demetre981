@@ -17,9 +17,10 @@
 
 <br>
 
-- A passionate Self-taught back-end developer
-- Playing basketball at spare time
+- A passionate Self-taught DevOps/CS specialist
+- Player of the Ukrainian national American football team
 - Currently learning Web Development and Computer Sciense by Self
+- Also interested in Economics & Trading
 
 
 <br><br>
